@@ -1,0 +1,113 @@
+/*---------------------css code of brand name----------------*/
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.navbar-brand{
+    font-size:40px;
+    font-weight:900;
+    font-family:Footlight MT;
+    margin-left:50px;
+}
+.nav-link{
+    font-size:20px;
+    font-weight:50;
+    font-family:ui-rounded;
+    color:black;
+    text-shadow:0px 0px 0px black;
+    
+}
+.banner{
+    color: aliceblue;
+    margin-top: 100px;
+    margin-left: 40px;
+    margin-right: 40px;
+    text-align: center;
+    line-height:60px;
+    font-weight:900;
+    font-family:snell roundhan;
+}
+.about{
+    text-align: justify;
+    line-height: 35px;
+    font-size: large;
+    font-family:snell roundhan;
+    font-weight: 500;
+    
+} 
+.heading{
+    font-family:Gill Sans MT ;
+    font-weight: 800;
+    text-align: center;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    font-size: 50px;
+}
+.about1{
+    font-family:Footlight MT;
+    font-weight:bold;
+    
+    margin-top: 15px;
+    margin-bottom: 15px;
+    font-size: 40px;
+}
+.num{
+    color:red;
+    font-size:40px;
+    font-weight: 700;
+}
+.h3head{
+    color:black;
+    font-weight: 700;
+}
+
+.ser{
+    box-shadow: 1px 1px 10px rgb(167, 162, 162);
+}
+/* ------ CSS Code for footer Section  -----*/
+  
+footer ul
+{
+ list-style: none;
+ padding: 0;
+}
+
+
+footer li
+
+{
+
+padding-left: 1.3em;
+
+}
+
+
+footer a
+
+{
+
+ color:white;
+
+}
+
+
+footer a:hover
+
+{
+
+ color:#53b370;
+
+ text-decoration: none;
+
+}
+
+
+footer li:before
+
+{
+
+
+ font-size: 15px;
+
+ content: "\00BB";
+}
